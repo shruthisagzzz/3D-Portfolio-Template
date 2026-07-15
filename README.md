@@ -48,7 +48,7 @@ The application combines modern frontend technologies with smooth animations to 
 
 # 🎥 Project Demo
 
-Add your GIF here
+
 <img width="1900" height="976" alt="Recording 2026-07-15 123917" src="https://github.com/user-attachments/assets/71ed8c28-55c6-4d98-81eb-f597b8a2de5a" />
 
 
