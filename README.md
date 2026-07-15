@@ -40,57 +40,17 @@ The application combines modern frontend technologies with smooth animations to 
 ---
 
 # 📸 Screenshots
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/d0a9fad2-6820-45d6-985a-d68e1f8fb696" />
 
-> Replace these images with your own screenshots.
-
-## Home
-
-```
-README-assets/home.png
-```
-
-![](README-assets/home.png)
-
----
-
-## 3D Model
-
-```
-README-assets/car-view.png
-```
-
-![](README-assets/car-view.png)
-
----
-
-## Scroll Animation
-
-```
-README-assets/animation.png
-```
-
-![](README-assets/animation.png)
-
----
-
-## Final Section
-
-```
-README-assets/final-page.png
-```
-
-![](README-assets/final-page.png)
+<img width="1881" height="955" alt="image" src="https://github.com/user-attachments/assets/4115c5bd-f551-41e1-aedc-09e04bb66ebd" />
 
 ---
 
 # 🎥 Project Demo
 
 Add your GIF here
+<img width="1900" height="976" alt="Recording 2026-07-15 123917" src="https://github.com/user-attachments/assets/71ed8c28-55c6-4d98-81eb-f597b8a2de5a" />
 
-<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/d0a9fad2-6820-45d6-985a-d68e1f8fb696" />
-
-<img width="1881" height="955" alt="image" src="https://github.com/user-attachments/assets/4115c5bd-f551-41e1-aedc-09e04bb66ebd" />
-<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/38d899f2-ccc7-489a-a7d1-450b414d3b20" />
 
 
 ---
